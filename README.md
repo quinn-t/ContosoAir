@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/AzureLZ/nl-red-nautadutilh/_apis/build/status/nautadutilh-intapp-prd-01/nautadutilh-intapp-prd-01?repoName=nl-red-nautadutilh&branchName=master)](https://dev.azure.com/AzureLZ/nl-red-nautadutilh/_build/latest?definitionId=2074&repoName=nl-red-nautadutilh&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
